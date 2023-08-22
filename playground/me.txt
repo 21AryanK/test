@@ -1,0 +1,5 @@
+{{#user}}
+Name: Aryan Kumar
+Skills: HTML, CSS, JS, React.js, Node.js, Express.js, Mongoose, MongoDB, Tailwind CSS
+Email: bholukumar999t@gmail.com
+{{/user}}
